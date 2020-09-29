@@ -2,5 +2,5 @@
 layout: slide
 Title: "Bienvenidos a la segunda página!"
 ---
-Kaixo 
+ Kaixo arratsalde on!
 Ezkerreko gezia erabili itzultzeko!
